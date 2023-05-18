@@ -21,12 +21,12 @@
   --dplus-backdrop: url(https://cutewallpaper.org/27x/tgaw6b947/2206723250.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 900;
-  --dplus-accent-color-saturation: 30%;
+  --dplus-accent-color-hue: 500;
+  --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 900;
+  --dplus-foreground-color-hue-base: 500;
   --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
